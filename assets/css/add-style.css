@@ -73,8 +73,7 @@ nav {
 
 nav {
   border: solid #000;
-  border-width: .125em 0 0 0;
-  background: rgba(245, 245, 245, 1);
+  border-width: .0625em 0 0 0;
 }
 
 nav:hover {
@@ -97,6 +96,10 @@ nav ul li {
 nav ul li:hover {
   background: rgba(140, 160, 240, .25);
   font-weight: 600;
+}
+
+.nav-bg {
+  background: rgba(245, 245, 245, .9);
 }
 
 main {
