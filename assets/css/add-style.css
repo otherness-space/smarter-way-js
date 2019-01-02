@@ -37,6 +37,9 @@ header {
   height: 20%;
   border: solid #000;
   border-width: 0 0 .125em 0;
+}
+
+.header-bg {
   background: rgba(205, 220, 255, .25);
 }
 

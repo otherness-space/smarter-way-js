@@ -29,7 +29,6 @@ header {
   height: 20%;
   border: solid $black_000;
   border-width: 0 0 .125em 0;
-  background: rgba(205, 220, 255, .25);
 
   h1 {
     margin: 0;
@@ -116,6 +115,10 @@ p {
   display: block;
   margin: 0 auto;
   width: 22.5em;
+}
+
+.header-bg {
+  background: rgba(205, 220, 255, .25);
 }
 
 .nav-bg {
